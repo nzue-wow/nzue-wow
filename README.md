@@ -1,6 +1,7 @@
 # 💫 About Me:
-I’m Nena, a 2nd-year Informatik Mittelschule (IMS) student with a passion to bring code to life. There is nothing quite like the feeling of taking an idea and turning it into a working piece of software. I thrive in collaborative environments and love solving problems alongside others
+I’m Nena, a 2nd-year Informatik Mittelschule (IMS) student with a passion to bring code to life. There is nothing quite like the feeling of taking an idea and turning it into a working piece of software. I thrive in collaborative environments and love solving problems alongside others.
 
+I am currently looking for an internship for my 4th year (starting August 2027). I’m eager to bring my motivation, teamwork skills, and technical foundation to a professional team where I can contribute to real-world projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nena-z%C3%BChlke-1ab9483b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nena.zuehlke@icloud.com) 
