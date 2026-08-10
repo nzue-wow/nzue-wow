@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Nena, a 2nd-year Informatik Mittelschule (IMS) student with a passion to bring code to life. There is nothing quite like the feeling of taking an idea and turning it into a working piece of software. I thrive in collaborative environments and love solving problems alongside others.
+I’m Nena, a 3rd-year Informatik Mittelschule (IMS) student with a passion to bring code to life. There is nothing quite like the feeling of taking an idea and turning it into a working piece of software. I thrive in collaborative environments and love solving problems alongside others.
 
 I am currently looking for an internship for my 4th year (starting August 2027). I’m eager to bring my motivation, teamwork skills, and technical foundation to a professional team where I can contribute to real-world projects.
 
